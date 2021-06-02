@@ -1,0 +1,18 @@
+site_name: KOBPIU
+theme:
+  name: material
+markdown_extensions:
+  - attr_list
+nav:
+    -index: index.md
+    -Usecase:
+        -usecase: usecase.md
+        -business: business.md
+
+
+
+
+
+
+
+
